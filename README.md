@@ -9,3 +9,8 @@ The Bankist App UI
 4. Request a loan
 5. Close the account ( Will be implemented later )
 
+# Learning Outcome
+* Familiarised myself with the latest ES6 Syntax
+* Learnt more about DOM elements and its manipulation
+* Got to know a lot about arrays and array methods
+* Understood more about UI and UX
